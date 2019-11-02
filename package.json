@@ -1,0 +1,15 @@
+{
+  "name": "dh-pizzas",
+  "version": "1.0.0",
+  "description": "Esta va a ser la aplicación de DH pizzas :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javi Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "requirer": "0.0.4"
+  }
+}
