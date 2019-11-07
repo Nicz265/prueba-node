@@ -1,0 +1,16 @@
+[
+ {
+  "numeroPedido": 1,
+  "paraDelivery": false,
+  "nombreCliente": "asd",
+  "telefonoCliente": "2123132131",
+  "gustoPizza": "Muzzarella",
+  "tamanioPizza": "Personal",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fecha": "2019-11-6",
+  "hora": "9:54:56 PM",
+  "totalProductos": 430,
+  "descuento": 0
+ }
+]
